@@ -1,5 +1,5 @@
 ### Olá 👋
-Olá,me chamo Rafaely  sou estudante do curso técnico de Desenvolvimento de Sistemas pela instituição Etec de São Paulo.
+Olá, me chamo Rafaely  sou estudante do curso técnico de Desenvolvimento de Sistemas pela instituição Etec de São Paulo.
 No curso estou tendo a oportunidade de aprender algumas linguangens de programação, e estou em busca de oportunidades de estágio.
 <!--
 **Rafa1229/Rafa1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
